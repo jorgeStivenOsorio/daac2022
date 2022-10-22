@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>461459370717-1mialmir6o7pbui3lsmo9ne0k3gc6lav.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.461459370717-1mialmir6o7pbui3lsmo9ne0k3gc6lav</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBap9EhR_VmWfsGICBK5bB3vXaAYE7-zxQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>461459370717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.startupNamer</string>
+	<key>PROJECT_ID</key>
+	<string>apipython-claseleng</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apipython-claseleng.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:461459370717:ios:fe7529d0cb88335687e134</string>
+	<key>DATABASE_URL</key>
+	<string>https://apipython-claseleng-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

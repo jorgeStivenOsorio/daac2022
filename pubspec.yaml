@@ -1,0 +1,47 @@
+name: DAAC_APP
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  meta: ^1.8.0
+  easy_separator: ^1.0.1
+  separated_column: ^2.0.0
+  google_fonts: ^3.0.1
+  firebase_core: ^1.24.0
+  firebase_auth: ^3.11.2
+  flutter_signin_button: ^2.0.0
+  equatable: ^2.0.5
+  image_picker: ^0.8.6
+  font_awesome_flutter: ^9.0.0
+  cloud_firestore: ^3.5.1
+  flutter_awesome_select: ^6.5.0
+  weekday_selector: ^1.1.0
+  firebase_database: ^9.1.7
+  firebase_storage: 
+  profile:
+  get: ^4.6.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+     - images/
+     - images/daacLogo.png
